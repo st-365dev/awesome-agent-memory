@@ -28,6 +28,7 @@ Contributions welcome. Please keep entries factual and free of marketing languag
 - [Graphiti](https://github.com/getzep/graphiti) - Temporal knowledge-graph engine for agent memory (powers Zep).
 - [LangMem](https://github.com/langchain-ai/langmem) - Long-term memory utilities for LangGraph agents.
 - [Letta](https://github.com/letta-ai/letta) - Agent framework with self-editing memory, from the team behind MemGPT.
+- [memgovern](https://github.com/hahahahahahahahah6/memgovern) - Memory governance layer for AI agents: the write/delete half — when a memory should fade, when it should die, and who wins when two memories disagree. SQLite, zero dependencies.
 - [Memori](https://github.com/MemoriLabs/Memori) - Memory engine for AI agents and applications.
 
 ## MCP memory servers
